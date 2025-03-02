@@ -1,4 +1,4 @@
 ## Remote Code Hub 👩‍💻
 
-**We code from everywhere:**
+**We code from everywhere**
 
